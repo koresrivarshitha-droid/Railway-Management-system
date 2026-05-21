@@ -1,2 +1,22 @@
 # Railway-Management-system
-A Railway Management System project developed using SQL and DBMS concepts for managing trains, passengers, tickets, stations, and platforms.
+# Railway Management System
+
+## Overview
+A DBMS project developed using SQL to manage railway operations including trains, passengers, tickets, stations, and platforms.
+
+## Features
+- Train Management
+- Passenger Management
+- Ticket Booking
+- Station Management
+- Platform Allocation
+
+## Technologies Used
+- SQL
+- DBMS
+- MySQL
+
+## Project Files
+- Project Report (.docx)
+- Presentation (.pptx)
+- ER Diagram (.jpeg)
